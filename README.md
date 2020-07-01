@@ -22,10 +22,28 @@ Description
 
 
 
+
 See Also
 -----------------------------------------------------
 - web('https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f')
 - web('http://bradleymonk.com/wp')
+
+
+
+
+Relevant MATLAB Help Pages
+-----------------------------------------------------
+- web('https://www.mathworks.com/help/matlab/ref/graph.html')
+- web('https://www.mathworks.com/help/matlab/ref/graph.plot.html')
+- web('https://www.mathworks.com/help/matlab/ref/digraph.html')
+- web('https://www.mathworks.com/help/matlab/math/use-page-rank-algorithm-to-rank-websites.html')
+- web('https://www.mathworks.com/help/matlab/math/directed-and-undirected-graphs.html')
+- web('https://www.mathworks.com/help/matlab/math/graph-plotting-and-customization.html')
+- web('https://www.mathworks.com/help/matlab/ref/matlab.graphics.chart.primitive.graphplot.html')
+- web('https://www.mathworks.com/help/matlab/ref/matlab.graphics.chart.primitive.graphplot.highlight.html')
+- web('https://www.mathworks.com/help/matlab/math/build-watts-strogatz-small-world-graph-model.html')
+- web('https://regexr.com/')
+
 
 
 Attribution
