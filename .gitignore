@@ -1,5 +1,18 @@
-# Object file
-*.o
+# data folders
+vids
+vids/*
+data
+data/*
+notes
+notes/*
 
-# Ada Library Information
-*.ali
+
+# temporary files
+*.m~
+*.mat
+.DS_Store
+*.aux
+*.log
+*.out
+*.txt
+*~*
